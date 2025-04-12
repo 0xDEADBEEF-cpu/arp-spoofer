@@ -28,7 +28,7 @@
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/Dimatop228/arp-spoofer.git
+git clone https://github.com/0xDEADBEEF-cpu/arp-spoofer.git
 cd arp-spoofer
 pip3 install -r requirements.txt
 python arp-spoofer.py
